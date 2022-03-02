@@ -1,5 +1,5 @@
 ## Índice
-1.- Introduccion
-2.- Instalacion
-3.- Ejercicos
-4.- Referencia
+1.- Introducciòn
+2.- Instalaciòn
+3.- Ejercicios
+4.- Referencias
